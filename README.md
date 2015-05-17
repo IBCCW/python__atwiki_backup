@@ -1,2 +1,2 @@
-# python__-wiki_backup
+# python__atwiki_backup
 @wikiのバックアップツール
